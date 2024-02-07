@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tianshu129/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "foqat"]
 	path = foqat
